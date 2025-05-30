@@ -53,8 +53,3 @@ class Main:
         self.logger.info("Main - Finalizando processo")
         # Finaliza o estado/processo conforme implementação do framework
         final_state(logger=self.logger, input_table=self.input_table, error_table=self.ls_errors, success_table=self.ls_success, env_vars=self.env_vars, apps=self.applications, assets=self.assets)
-
-if __name__ == "__main__":
-    # Ponto de entrada do script
-    main_instance = Main(assets="")
-    main_instance.main()
