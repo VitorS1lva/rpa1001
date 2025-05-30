@@ -1,0 +1,1 @@
+# Esta pasta serve para armazenamento de arquivos que sirvam como temporários para o processo, geralmente é limpa a cada execução

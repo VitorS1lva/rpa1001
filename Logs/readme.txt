@@ -1,0 +1,1 @@
+# Esta pasta armazena logs de execução do processo

@@ -1,0 +1,1 @@
+# Esta pasta contempla pacotes de atividades a serem utilizados pelo desenvolvedor

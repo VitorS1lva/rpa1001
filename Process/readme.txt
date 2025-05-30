@@ -1,0 +1,1 @@
+# Esta pasta armazena lógicas de código referentes ao processo em si, mais comumente relacionadas a mimetização do user do processo.

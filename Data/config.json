@@ -1,0 +1,28 @@
+{
+		"project_folder_name":"aps-rpa1003",
+
+		"output_folder": "Data\\output",
+		"input_folder": "Data\\input",
+		"temp_folder": "Data\\tem",
+
+		"temp_folders": ["Data\\output"],
+		"download_sharepoint_files_path": "Data\\input",
+		"apps_to_kill": [""],
+
+		"sap_path": "C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\saplogon.exe",
+		"sap_connection_name": "SAP - QAS Ambiente de Testes",
+		"sap_code": "400",
+		"sap_transaction_code": "YSD008",
+
+		"matriz_code": "0050",
+		"filial_code": "0070",
+		"nf_code": "i3",
+		"cfop_first_code": "6109/AA",
+		"cfop_secon_code": "6110/AA",
+		"template_code": "/PISCOFINS 2",
+
+		"mail_sender": "robo.apsen@apsen.com.br",
+		"mail_to": ["vitor.silva@apsen.com.br"],
+		
+		"sharepoint_url": "https://apsen.sharepoint.com/sites/TIME_RPACentraldeDocumentao/Documentos%20Compartilhados/Forms/AllItems.aspx?id=%2Fsites%2FTIME%5FRPACentraldeDocumentao%2FDocumentos%20Compartilhados%2FSources%2FRPA1001%2FSuframa%2FInput&viewid=546e6c7c%2D1571%2D4818%2Daafb%2Dabd35ac85c38"
+}

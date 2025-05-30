@@ -1,0 +1,1 @@
+# Esta pasta contempla arquivos que sirvam de input para o processo

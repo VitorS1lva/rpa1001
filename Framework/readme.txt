@@ -1,0 +1,1 @@
+# Esta pasta armazena lógicas referentes ao framework

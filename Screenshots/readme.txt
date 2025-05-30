@@ -1,0 +1,1 @@
+# Esta pasta armazena screenshots de execução do processo

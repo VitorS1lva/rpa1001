@@ -1,0 +1,21 @@
+# Arquivos do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+.env/
+.venv/
+
+# Virtualenv
+venv/
+ENV/
+
+# IDEs
+.vscode/
+
+# Arquivos temporários
+*.tmp
+*.bak
+*.swp

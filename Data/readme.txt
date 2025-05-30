@@ -1,0 +1,1 @@
+# Esta pasta armazena dados do processo, bem como o arquivo config.json, que é usado para parametrizar o processo acompanhando boas práticas de desenvolvimento de RPA
